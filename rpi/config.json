@@ -1,0 +1,7 @@
+{
+    "sensors": [
+        "28-00000adff3d0"
+    ],
+    "backend_url": "http://localhost",
+    "delay": 60
+}
